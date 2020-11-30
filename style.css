@@ -1,0 +1,297 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.bar{
+    background-color: #581b98;
+    width: 100%;
+    height: 65px;
+    color: white;
+}
+
+
+.logo{
+    height: 55px;
+}
+
+
+.cover{
+    background-image: url('img/cover1.jpg');
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+.hero{
+    margin-top: 155px;
+    margin-left: 35px;
+}
+
+.hero h1{
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+/* .hero p {
+    width: 450px;
+} */
+
+.pic1{
+    height: 350px;
+    margin-top: 75px;
+    margin-right: 30px;
+}
+
+.name{
+    background-image: linear-gradient(#581b98,#581b98);
+    background-size: 100% 50%;
+}
+
+.b{
+    border-bottom: 3px solid #581b98;
+}
+
+.video-reel{
+    background-color: #f1f1f1;
+    height: 1210px;
+    color: black;
+}
+
+.navbar{
+    background-color:  #581b98 ;
+}
+
+.navbar-expand-lg .navbar-dark .navbar-collapse, #navbarnav, .collapse, .show {
+    background-color:  #581b98 ;
+}
+
+.video-reel h1{
+    font-weight: 700;
+    width: 210px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.video-reel1{
+    background-color: #f1f1f1;
+    height: 2110px;
+    color: black;
+}
+
+.video-reel1 h1{
+    font-weight: 700;
+    width: 210px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.iframe{
+    margin: auto;
+    width: 560px;
+    margin-top: 25px;
+}
+
+.video-reel img{
+    width: 230px;
+    margin: auto;
+}
+
+.video-reel1 .r1{
+    width: 230px;
+    margin: auto;
+}
+ 
+.video-reel .ml{
+    width: 380px;
+    margin-top: 50px;
+}
+
+.video-reel1 .ml{
+    width: 380px;
+    margin-top: 50px;
+}
+
+form{
+    display: flex;
+    width: 372px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+input{  
+    border: 2px solid #581b98;
+    height: 35px;
+}
+
+.submit{
+    color: black;
+    width: 115px;
+    height: 50px;
+    margin-left: 5px;
+    padding:10px ;
+}
+
+.email{
+    height: 50px;
+    width: 300px;
+}
+
+.submit:hover{
+    background-color: #581b98 ;
+    color: white;
+}
+
+.footer{
+    background-color:  rgb(43, 40, 40);
+    width: 100%;
+    height: 100px;
+}
+
+.fo{
+    display: flex;
+    width: 208px;
+    margin: auto;
+    margin-top: 85px;
+}
+
+.fo h2{
+    font-weight: 600;
+    margin-right: 15px;
+}
+
+.fo a{
+    margin-right: 15px;
+}
+
+.fo  a img{
+    margin-left: 15px;
+    height: 30px;
+    width: 30px;
+    margin: 0;
+}
+
+.foo-pic{
+    height: 30px;
+}
+
+.cover1{
+    background-image: url('img/cover1.jpg');
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+
+.cover1 h1{
+    font-weight: 600;
+    width: 219px;
+    margin: auto;
+    padding-top: 25px;
+}
+
+.bio{
+    height: 400px;
+    width: 700px;
+}
+
+.pic3{
+    height: 400px;
+    width: 450px;
+}
+
+.its{
+    margin-left:35px;
+    font-weight: 600;
+}
+
+.p{
+    margin-left:35px;
+    font-size: 14px;
+    font-weight: 520;
+}
+
+.c1{
+    margin-left: 10px;
+}
+
+.reel-bg{
+    background-image: url('img/reel-bg1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    width: 100%;
+    height: 200px;
+
+}
+
+.b-div{
+    display: flex;
+    width: 455px;
+    margin: auto;
+}
+
+
+.button {
+    margin-top: 55px;
+    background-color: #f1f1f1;
+    border: 2px solid #581b98;
+    transition-duration: 0.4s;
+    padding: 14px 30px;
+    width: 230px;
+}
+
+.button:hover{
+    border: 2px solid #581b98;
+    background-color: #581b98;
+    color: white;
+}
+
+#b2{
+    background-color: #581b98;
+    color: white;
+}
+
+#bb2{
+    background-color: #581b98;
+    color: white;
+}
+
+.div-b2, .div-b1{
+    margin-top: 65px;
+}
+
+.flex{
+    display: flex;
+    width: 100%;
+    height: 80%;
+}
+
+.img1{
+    width:30%;
+	float: left;
+    margin: 1.66%;
+    height: 80%;
+}
+
+#bgp{
+    background-image: url('img/pirple.jpeg');
+    background-position: 250px 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    line-height: 200px;
+}
+
+/* .bgp1{
+    background-image: url('img/pirple.jpeg');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+} */
